@@ -1,12 +1,10 @@
-Thumbs.db
-ehthumbs.db
-Desktop.ini
-.DS_Store
-
+target
 */target/*
 */target/**
 .idea/
+
 *.log
+
 *.war
 *.nar
 *.ear
@@ -14,35 +12,7 @@ Desktop.ini
 *.tar.gz
 *.rar
 *.iml
+
 hs_err_pid*
 
-$RECYCLE.BIN/
-
-*.cab
-*.msi
-*.msm
-*.msp
-# Operating System Files
-*.lnk
-
-
-.AppleDouble
-.LSOverride
-
-# Tumbnails
-._*
-
-# Files that might appear in the root of a volume
-.DocumentRevisions-V100
-.fseventsd
-.Spotlight-V100
-.TemporaryItems
-.Trashes
-.VolumeIcon.icns
-
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
+.DS_Store
