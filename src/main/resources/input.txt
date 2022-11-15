@@ -1,0 +1,10 @@
+{"name":"Michael", age: 24}
+{"name":"Andy", "age":30}
+{"name":"Justin", "age":19}
+{"name":"Jhon", age: 25}
+{"name":"Boy", "age":31}
+{"name":"Fisher", "age":29}
+{"name":"Mike", age: 15}
+{"name":"Liat", "age":13}
+{"name":"Yona", "age":92}
+{"name":"Jacob", "age":192}
